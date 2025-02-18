@@ -1,0 +1,36 @@
+{
+    "TABLE_intf": {
+        "ROW_intf": [
+            {
+                "vrf-name-out": "default",
+                "intf-name": "Vlan20",
+                "proto-state": "up",
+                "link-state": "up",
+                "admin-state": "up",
+                "iod": "71",
+                "prefix": "10.1.20.254",
+                "ip-disabled": "FALSE"
+            },
+            {
+                "vrf-name-out": "default",
+                "intf-name": "Vlan30",
+                "proto-state": "up",
+                "link-state": "up",
+                "admin-state": "up",
+                "iod": "72",
+                "prefix": "10.1.30.254",
+                "ip-disabled": "FALSE"
+            },
+            {
+                "vrf-name-out": "default",
+                "intf-name": "Eth1/1",
+                "proto-state": "up",
+                "link-state": "up",
+                "admin-state": "up",
+                "iod": "5",
+                "prefix": "192.168.100.253",
+                "ip-disabled": "FALSE"
+            }
+        ]
+    }
+}
